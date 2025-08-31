@@ -1,4 +1,4 @@
-package com.beyzaslan.exception_management;
+package com.beyzaslan.starter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
